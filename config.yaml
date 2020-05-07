@@ -1,0 +1,4 @@
+baseURL: "https://example.com"
+languageCode: "en-us"
+title: "mindofkt"
+pygmentsstyle: 'monokai'

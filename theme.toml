@@ -1,0 +1,18 @@
+name = "mindofkt"
+license = "MIT"
+licenselink = "https://github.com/forestryio/hugo-theme-novela/blob/master/LICENSE"
+description = "A mosaic still-frame of thoughts and experiences"
+homepage = "https://hugo-novela-forestry.netlify.com/"
+tags = ["blog"]
+features = ["dark mode", "grid view"]
+min_version = "0.55.0"
+
+[author]
+    name = "KT"
+    homepage = "https://www.thenewdynamic.com/"
+
+# If porting an existing theme
+[original]
+    author = "KT"
+    homepage = "https://www.narative.co/"
+    repo = "https://github.com/narative/gatsby-theme-novela"
