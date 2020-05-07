@@ -26,10 +26,6 @@ authors:
   <source type="audio/mp3" src="/video/KANDARA.mp3"></source>
 </audio>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
 #### Lukla (2840m) to Phakding (2600m)
 
 **8:03 pm**
@@ -45,56 +41,34 @@ Our guide Dewan is so kind, I really trust him. His English isn’t too great bu
 Anyways! We have a long uphill day tomorrow so, nighty! 
 
 
-<<<<<<< HEAD
-*The drive:* <video class='centre' width="320" height="240" controls="controls">
-<source type="video/mp4" src="/video/day1.mp4"></source>
-</video>
 
-
-
-=======
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
 # Day 2
 
 ### Phakding (2600m) to Namche Bazaar (3440m)
 
 **7:35 pm**
 
-<<<<<<< HEAD
-￼<img src="/images/day2.jpg" alt="Day02" width="650"/>
-=======
 <img src="/images/day2.jpg" alt="Day02" width="650"/>
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
 
 5 hours of hiking (3 until the Sagarmatha National Park Entance, an hour break, then 2 uphill to Namche) and 5 awesome suspension bridges. Dewan says we have a good pace. The weather was **PERFECT!** We saw mountain goats, yaks, cows, horses, zupas, dogs, chickens, roosters. Some Nepalese girls said I look very white LOL. 
 
-ugh! <video class='centre' width="320" height="240" controls="controls">
-<source type="video/mp4" src="/video/day2.mp4"></source>
-</video>
 
 To say the views are stunning is an understatement. Every which way you look is an entirely new portrait. We had views of multiple different peaks, the fresh water river, which is *crystal* clear, and layers of mountains weaving into each other like clasped hands. 
 
-<<<<<<< HEAD
-￼<img src="/images/day2view.jpg" alt="Day02 View" width="650"/>
-=======
 <img src="/images/day2view.jpg" alt="Day02 View" width="650"/>
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
 
 #### Nature is so photogenic, capturing beauty is effortless. 
 
 \
-<<<<<<< HEAD
+
+
 
 Teagan and I felt a little drunk walking around the bazaar because of the altitude lol. Still feeling it now. I'm *so* tired. We’re both in bed ready for sleep. It was a challenge today but we didn’t feel like it was too much to handle mentally or physically. After a while the walking becomes very meditative. No space for any other thoughts aside from the present. Trekking poles make a very big difference despite hardly putting any weight on them. 
 
-=======
-
-Teagan and I felt a little drunk walking around the bazaar because of the altitude lol. Still feeling it now. I'm *so* tired. We’re both in bed ready for sleep. It was a challenge today but we didn’t feel like it was too much to handle mentally or physically. After a while the walking becomes very meditative. No space for any other thoughts aside from the present. Trekking poles make a very big difference despite hardly putting any weight on them. 
-
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
 We’re meeting lots of people at random but haven’t stuck with anyone in particular. I’m sure tomorrow will be easier to meet people during our rest day; while we’re trekking up hill it’s not exactly the best time to get to know someone. We’re so focussed on each step we take. Thank goodness for mule xings, they’re like speed bumps. 
 
 I’m trying to keep up my yoga training so I’m going to teach Teagan and maybe Dewan a class. 
+
 
 # Day 3
 
@@ -102,33 +76,18 @@ I’m trying to keep up my yoga training so I’m going to teach Teagan and mayb
 
 **5:54 am**
 
-
-<<<<<<< HEAD
-￼<img src="/images/day3.jpg" alt="Day03" width="650"/>
-=======
 <img src="/images/day3.jpg" alt="Day03" width="650"/>
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
 
 
 Woke up to the sound of drums and a conch - very tribal! I feel super peaceful here. 
 
 **12:28 pm** we walked to the Everest view point and the word of the day is *“wow”*. 
-<<<<<<< HEAD
-￼
-￼￼<img src="/images/day3us.jpg" alt="Day03 KT and Teags" width="650"/>
-=======
 
 <img src="/images/day3us.jpg" alt="Day03 KT and Teags" width="650"/>
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
-
 
 I practiced a Hatha sequence on teags and afterwards I felt so much more myself and a brief deep connection with the mountains. It’s unbelievable here. And can you believe the pictures don’t do it justice??
 
-<<<<<<< HEAD
-￼<img src="/images/day3view.jpg" alt="Day03 View" width="650"/>
-=======
 <img src="/images/day3view.jpg" alt="Day03 View" width="650"/>
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
 
 
 **4:26 pm**
@@ -142,22 +101,6 @@ Right now we’re chilling in Himalayan Java - the Starbucks of Nepal. We’ve b
 ### Namche (3440m) to Tengboche (3860m) to Deboche
 
 #### There was a clean toilet on the second floor. 
-<<<<<<< HEAD
-
-This is my favourite scenic route. We walked alongside a mountain and every turn is so different. Every element is here: wind, earth (so many green trees), water, sun (and of course, space). 
-
-*<video class='centre' width="620" height="540" controls="controls">
-<source type="video/mp4" src="/video/day4.mp4"></source>
-</video>
-
-There was no room in the inn at Tengboche so we migrated another 15 minutes to Dingboche. 
-
-￼
-￼<img src="/images/day4.jpg" alt="Day04" width="650"/>
-
-We met a guy from Pakistan who has summited 6 of the 7 tallest peaks and plans to summit his last one - Everest. He has documentaries on amazon prime, one called *Beyond The Heights*. His sister is the first woman from Pakistan to summit Everest. 
-
-=======
 
 This is my favourite scenic route. We walked alongside a mountain and every turn is so different. Every element is here: wind, earth (so many green trees), water, sun (and of course, space). 
 
@@ -168,7 +111,6 @@ There was no room in the inn at Tengboche so we migrated another 15 minutes to D
 
 We met a guy from Pakistan who has summited 6 of the 7 tallest peaks and plans to summit his last one - Everest. He has documentaries on amazon prime, one called *Beyond The Heights*. His sister is the first woman from Pakistan to summit Everest. 
 
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
 So amazing! We’re going to look for his tent at base camp, he said he’d make us lunch before they go up!
 
 I did some yoga in the courtyard and what a mood changer it is!
@@ -181,35 +123,20 @@ In this tea house it’s easy to chat with people so we hung out with a trekking
 
 **3:31 pm**
 
-<<<<<<< HEAD
-￼<img src="/images/day5view.jpg" alt="Day05 View" width="650"/>
-=======
 <img src="/images/day5view.jpg" alt="Day05 View" width="650"/>
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
 
 So far no altitude sickness (knock on wood) and I took my first solid poop today!!
 
 Teagan and I are finding that it has become mentally draining. Physically, today was easy. Mentally, we’re a bit tired of pushing through stairs 😜. Nothings as difficult as getting to Namche but we were super fresh and ready for the challenge! 
 
 I would say this journey is equal parts mentally and physically demanding. Those components have a reciprocal relationship; if you aren’t mentally strong, you must have extreme physical fitness to make the journey feel easy. In the same way, if you’re physically weak, you must be mentally robust to push through when it gets difficult. I feel like we have a good balance of both. I don’t feel physically sore or fatigued and mentally I’m doing okay (although I learned how to swear in Nepali just in case we have to battle more 60 degree inclines) but if I was any weaker in either regard then this wouldn’t be an enjoyable experience. 
-<<<<<<< HEAD
-￼
-￼<img src="/images/day5.jpg" alt="Day05" width="650"/>
-=======
 
 <img src="/images/day5.jpg" alt="Day05" width="650"/>
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
-
 
 The terrain has changed lots - more shrubby plants and more sand! Feels like we’re getting closer and closer to the source of this fresh water river we’re following. 
 
-
 It’s cold here.
-<<<<<<< HEAD
-￼
-=======
 
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
 
 # Day 6 
 
@@ -220,13 +147,7 @@ Teagan had food poisoning all night so she’s in bed today recovering :( Dewan 
 
 I did a yoga sequence on the stones outside facing the mountains and a few strangers joined in with their own practice. This is living. I’m going to listen to Tony’s advice and never let a moment in my life feel dull. 
 
-<<<<<<< HEAD
-￼
-￼<img src="/images/day6.jpg" alt="Day06" width="650"/>
-=======
-
 <img src="/images/day6.jpg" alt="Day06" width="650"/>
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
 
 (The village in the valley is where we started). 
 
@@ -299,15 +220,9 @@ The first part of the day was hard but it got better as it went on. We got to ou
 # Day 10 
 
 ### Pengboche (3985m) to Namche (3440m)
-<<<<<<< HEAD
 
 Ah Namche!! I was feeling stomach pain and severe lightheadedness from my lack of appetite (I skipped breakfast and lunch for the past 2 days and breakfast today... I’m also shitting rain so I’m super dehydrated) but talking to the American couple got me out of my head for a bit!! 
 
-=======
-
-Ah Namche!! I was feeling stomach pain and severe lightheadedness from my lack of appetite (I skipped breakfast and lunch for the past 2 days and breakfast today... I’m also shitting rain so I’m super dehydrated) but talking to the American couple got me out of my head for a bit!! 
-
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
 I still remember day 1 in Ramechhap when they hated their dal vhaat meal 😂 they’re such a sweet couple and the guy is jokes. The girl (we still don’t know each other’s names, which seems to be the common theme with meeting new people) described EBC the best: it is like how we might imagine the moon to be -- dry and lifeless. It definitely feels like we’ve travelled to the moon and back!
 
 We got a nice tea house this time and as soon as my head hit the pillow I was out!! My body is in need of much recovery.  
@@ -325,11 +240,3 @@ We basically **SPRINTED** back because we were so excited to be done! What a mac
 ### Lukla to KTM
 
 We missed our flight to Ramechhap but caught one to Kathmandu (thank goodness) and **THAT** was the scary ride of my life I’ve been waiting for! The plane was constantly dropping and I yelled “oh my god” a few times. I even started thinking about all the bad karma I deserve that would maybe cause the universe to bite me now! But we made it!! Home sweet home in Kathmanpoo 😊 what a journey from beginning to end! 
-
-<<<<<<< HEAD
-
-*<video class='centre' width="620" height="540" controls="controls">
-<source type="video/mp4" src="/video/day12.mp4"></source>
-</video>
-=======
->>>>>>> 3b2c19d21b7af00c4a7f48a609ec0a5434dd07b0
