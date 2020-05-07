@@ -111,11 +111,12 @@ This is my favourite scenic route. We walked alongside a mountain and every turn
 
 There was no room in the inn at Tengboche so we migrated another 15 minutes to Dingboche. 
 
-![Day 4 ](/images/day4.jpg)
 
 We met a guy from Pakistan who has summited 6 of the 7 tallest peaks and plans to summit his last one - Everest. He has documentaries on amazon prime, one called *Beyond The Heights*. His sister is the first woman from Pakistan to summit Everest. 
 
 So amazing! We’re going to look for his tent at base camp, he said he’d make us lunch before they go up!
+
+![Day 4 ](/images/day4.jpg)
 
 I did some yoga in the courtyard and what a mood changer it is!
 
@@ -131,17 +132,15 @@ In this tea house it’s easy to chat with people so we hung out with a trekking
 
 So far no altitude sickness (knock on wood) and I took my first solid poop today!!
 
-Teagan and I are finding that it has become mentally draining. Physically, today was easy. Mentally, we’re a bit tired of pushing through stairs 😜. Nothings as difficult as getting to Namche but we were super fresh and ready for the challenge! 
+Teagan and I are finding that it has become mentally draining. Physically, today was easy. Mentally, we’re a bit tired of pushing through stairs 😜. Nothings as difficult as getting to Namche but we were super fresh and ready for the challenge then! 
 
 I would say this journey is equal parts mentally and physically demanding. Those components have a reciprocal relationship; if you aren’t mentally strong, you must have extreme physical fitness to make the journey feel easy. In the same way, if you’re physically weak, you must be mentally robust to push through when it gets difficult. I feel like we have a good balance of both. I don’t feel physically sore or fatigued and mentally I’m doing okay (although I learned how to swear in Nepali just in case we have to battle more 60 degree inclines) but if I was any weaker in either regard then this wouldn’t be an enjoyable experience. 
-
-
-![Day 5](/images/day5.jpg)
 
 The terrain has changed lots - more shrubby plants and more sand! Feels like we’re getting closer and closer to the source of this fresh water river we’re following. 
 
 It’s cold here.
 
+![Day 5](/images/day5.jpg)
 
 # Day 6 
 
@@ -158,12 +157,15 @@ I did a yoga sequence on the stones outside facing the mountains and a few stran
 
 #### Every turn has more mountains! I am swallowed by the Himalayas. 
 
+
+
+
 **3:08 pm**
 
 
-![Day 6 View](/images/day6view.jpg)
-
 I was struggling to find a word that accurately describes the balance between power and complacency that the mountains exert but I think I found it: meek. By Jordan Peterson’s definition, a warrior who is all capable of destruction and tyranny but keeps his sword sheathed is meek. These mountains decide who climbs them, who paves paths in them, and here we (the trekkers) are: observing them at peace, even though we’ve just walked ourselves into the throat of the Himalayas. 
+
+![Day 6 View](/images/day6view.jpg)
 
 # Day 7
 
@@ -175,6 +177,9 @@ I was struggling to find a word that accurately describes the balance between po
 
 ##### Left foot. Right foot. Left foot. Right foot. 
 
+
+
+
 Today was hard! Mentally and cardiovascularly. I had thought *“this is unenjoyable”* as we were ascending through a mountain of rocks. Breaks help. I was thinking about what mom told me one time, *“if you want something to feel easy, do something harder”.* A lot of things are going to feel easy after this! Our stomachs were churning with every step but we made it and tomorrow is base camp day!!!!
 
 
@@ -183,38 +188,43 @@ Today was hard! Mentally and cardiovascularly. I had thought *“this is unenjoy
 ##### SO PROUD OF US FOR MAKING IT THIS FAR.  
 
 
-![Day 7 Memorial](/images/day7memorial.jpg)
 
 We walked through a memorial of sherpas and tourists who passed away on Everest. 
 
 We’re going to walk to the Khumbu glacier in a bit but for now we’re horizontal in our teahaüs (the new ebc).
 
+![Day 7 Memorial](/images/day7memorial.jpg)
+
+
+
 # Day 8
 
 ### Lobuche (4900m) to Gorakshep (5100m) to Everest Base Camp (5300m)
 
-*(Written on day 10 bc I couldn’t be bothered to write the day of).*
+*(Written on day 10 because I couldn’t be bothered to write the day of).*
 
 ![Day 8](/images/day8.jpeg)
 
 No - **THIS** was the hardest day. I feel like I saw the other side of death. I slept for four hours last night and **REALLY** felt the altitude sickness. I was stubborn and tried to avoid buying plastic water bottles but because there is no running water up here I just got super dehydrated. I felt so weak and out of it walking to EBC, which involves hiking up and across many rocks along a ridge. It was a cloudy day but I loved that ominous tone. You really feel connected to all those people in the tents planning to summit and I can completely understand how these mountains take lives. 
-\
-#### We saw a massive avalanche! Today the mountains are in charge. 
+
+
+
+We saw a massive avalanche! Today the mountains are in charge. 
 
 
 \
-I honestly didn’t think I’d make it back to Gorakshep (I contemplated asking to be abandoned in one of the tents and retrieved tomorrow) since I’d been feeling so nauseas and weak but Dewan gave us a bit of a bounty bar and that helped me make it. It started snowing a lot in the direction we were walking so I had one eye open and honestly just thought of me trudging through campus in the middle of January. Oddly familiar! 
+I honestly didn’t think I’d make it back to Gorakshep (I contemplated asking to be abandoned in one of the tents and retrieved tomorrow) since I’d been feeling so nauseous and weak but Dewan gave us a bit of a bounty bar and that helped me make it. It started snowing a lot in the direction we were walking so I had one eye open and honestly just thought of me trudging through campus in the middle of January. Oddly familiar! 
 
 
 ![Day 8 Base Camp](/images/day8camp.jpg)
 
-Everyone seems to be struggling today. I definitely pushed my limits mentally and physically in what was **EASILY** the **HARDEST** thing I’ve ever done in my life. This has been SO character revealing for me, in moments of suffering and awe (they’re usually the same moment, like at EBC) my thoughts enter different corners of my mind. I was telling Teags it’s almost like dynamic meditation where you just yell for a while until these deep rooted emotions -- either laughing or crying or anything in between, shows itself to you. In a lot of ways, this journey has been therapeutic and I think it will radically change both of us. 
+Everyone seems to be struggling today. I definitely pushed my limits mentally and physically in what was **EASILY** the **HARDEST** thing I’ve ever done in my life. This has been SO character revealing for me, in moments of suffering and awe (they’re usually the same moment, like at EBC) my thoughts enter different corners of my mind. I was telling Teags it’s almost like dynamic meditation where you vocally purge until deep rooted emotions -- either laughing or crying or anything in between, show themselves to you. In a lot of ways, this journey has been therapeutic and I think it will radically change both of us. 
 
 # Day 9 
 
 ### Gorakshep (5100m) to Pengboche (3985m)
 
-Last night we slept in a tea house that was entirely slanted. When I laid on my bed, I slid to the wall. And it was **SO** rock hard solid my mind went to how grandpa had to sleep on the ground when he returned home because he was so used to conditions at war. It's impressive that he slept that way in trenches for so long, two nights in hard beds and my upper body feels broken!! I feel guilty for complaining. I have a bruise on my left hip bone from the beds. It’s also snowing in our room and **HOW IS THERE A DOG AT THIS ALTITUDE BARKING ALL NIGHT?** I was in tears as I sipped the one tablespoon of porridge that I could stomach all day because I wanted to get out so badly and down to the warmth and where the trees are and life is!
+Last night we slept in a tea house that was entirely slanted. When I laid on my bed, I slid to the wall. It was **SO** rock hard solid my mind raced to imagining how grandpa had to sleep on the ground when he returned home because he was so used to conditions at war. It's impressive that he slept that way in trenches for so long, two nights in hard beds and my upper body feels broken!! I feel guilty for complaining. I have a bruise on my left hip bone from the beds. It’s also snowing in our room and **HOW IS THERE A DOG AT THIS ALTITUDE BARKING ALL NIGHT?** I was in tears as I sipped the one tablespoon of porridge that I could stomach all day because I wanted to get out so badly and down to the warmth and where the trees are and life is!
 
 We walked down and ran into our friends, the American couple and the Georgian brothers, who played us a song of theirs by the Everest memorial. For a moment, all my stomach and nausea pain went away. What a surreal scene, listening to people express themselves in front of the most beautiful backdrop of the Himalayas. 
 
@@ -240,10 +250,10 @@ Finally, back to good sleep!! The Sherpa family here is so kind and welcoming an
 
 ### Namche (3440m) to Lukla
 
-We basically **SPRINTED** back because we were so excited to be done! What a machickney journey! All our friends went to the “Irish pub” (basically a grandmothers house on the main floor and frat house on the basement) for a celebratory drink! Cool to connect with all the travellers we met in passing. We were all in this together! 
+We basically **SPRINTED** back because we were so excited to be done! What a machickney journey! All our friends went to the “Irish pub” (basically a grandmothers house on the main floor and frat house in the basement) for a celebratory drink! Cool to connect with all the travellers we met in passing. We were all in this together! 
 
 # Day 12
 
 ### Lukla to KTM
 
-We missed our flight to Ramechhap but caught one to Kathmandu (thank goodness) and **THAT** was the scary ride of my life I’ve been waiting for! The plane was constantly dropping and I yelled “oh my god” a few times. I even started thinking about all the bad karma I deserve that would maybe cause the universe to bite me now! But we made it!! Home sweet home in Kathmanpoo 😊 what a journey from beginning to end! 
+We missed our flight to Ramechhap but caught one to Kathmandu (thank goodness) and **THAT** was the scary ride of my life I’d been waiting for! The plane was constantly dropping and I unwittingly caught myself saying “oh my god” aloud a few times. I even started thinking about all the bad karma I deserve that would maybe cause the universe to bite me now! But we made it!! Home sweet home in Kathmanpoo 😊 what a journey from beginning to end! 
