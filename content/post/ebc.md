@@ -57,10 +57,9 @@ To say the views are stunning is an understatement. Every which way you look is 
 
 <img src="/images/day2view.jpg" alt="Day02 View" width="650"/>
 
+![Day 2 View](/images/day2view.jpg)
+
 #### Nature is so photogenic, capturing beauty is effortless. 
-
-\
-
 
 
 Teagan and I felt a little drunk walking around the bazaar because of the altitude lol. Still feeling it now. I'm *so* tired. We’re both in bed ready for sleep. It was a challenge today but we didn’t feel like it was too much to handle mentally or physically. After a while the walking becomes very meditative. No space for any other thoughts aside from the present. Trekking poles make a very big difference despite hardly putting any weight on them. 
