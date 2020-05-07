@@ -34,6 +34,9 @@ We made it to Phakding (pak-ding)! \
 \
 After waking up at 3 am to drive to Ramachhap, we waited from 7 am to 3:30 pm for the wind to calm enough so that we could fly to Lukla. While we were waiting we slept in various positions in various places, bought bananas, and finally got a Somersby (yes, they sell them here **IN GLASS BOTTLES**). So refreshing. 
 
+
+![Day 1](/images/day1.jpg)
+
 The flight to Lukla wasn’t nearly as scary as bloggers have made it out to be. I don’t even remembering landing --- the earth just met the bottom of the plane. The walk down to Phakding wasn’t so terrible either! Only like 2 hours. Veggie pagoda and fried noodles for dinner were 10/10. We are now in bed because we are *SO* tired!! My feet already hurt and today was downhill. 
 
 Our guide Dewan is so kind, I really trust him. His English isn’t too great but he knows enough and has been to Everest base camp 8 times already! 
@@ -48,14 +51,14 @@ Anyways! We have a long uphill day tomorrow so, nighty!
 
 **7:35 pm**
 
-<img src="/images/day2.jpg" alt="Day02" width="650"/>
+![Day 2](/images/day2.jpg)
 
 5 hours of hiking (3 until the Sagarmatha National Park Entance, an hour break, then 2 uphill to Namche) and 5 awesome suspension bridges. Dewan says we have a good pace. The weather was **PERFECT!** We saw mountain goats, yaks, cows, horses, zupas, dogs, chickens, roosters. Some Nepalese girls said I look very white LOL. 
 
 
 To say the views are stunning is an understatement. Every which way you look is an entirely new portrait. We had views of multiple different peaks, the fresh water river, which is *crystal* clear, and layers of mountains weaving into each other like clasped hands. 
 
-<img src="/images/day2view.jpg" alt="Day02 View" width="650"/>
+
 
 ![Day 2 View](/images/day2view.jpg)
 
@@ -75,18 +78,21 @@ I’m trying to keep up my yoga training so I’m going to teach Teagan and mayb
 
 **5:54 am**
 
-<img src="/images/day3.jpg" alt="Day03" width="650"/>
+
+![Day 3](/images/day3.jpg)
 
 
 Woke up to the sound of drums and a conch - very tribal! I feel super peaceful here. 
 
 **12:28 pm** we walked to the Everest view point and the word of the day is *“wow”*. 
 
-<img src="/images/day3us.jpg" alt="Day03 KT and Teags" width="650"/>
+![Day 3 K and T](/images/day3us.jpg)
+
 
 I practiced a Hatha sequence on teags and afterwards I felt so much more myself and a brief deep connection with the mountains. It’s unbelievable here. And can you believe the pictures don’t do it justice??
 
-<img src="/images/day3view.jpg" alt="Day03 View" width="650"/>
+![Day 3 View](/images/day3view.jpg)
+
 
 
 **4:26 pm**
