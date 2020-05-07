@@ -111,8 +111,7 @@ This is my favourite scenic route. We walked alongside a mountain and every turn
 
 There was no room in the inn at Tengboche so we migrated another 15 minutes to Dingboche. 
 
-
-<img src="/images/day4.jpg" alt="Day04" width="650"/>
+![Day 4 ](/images/day4.jpg)
 
 We met a guy from Pakistan who has summited 6 of the 7 tallest peaks and plans to summit his last one - Everest. He has documentaries on amazon prime, one called *Beyond The Heights*. His sister is the first woman from Pakistan to summit Everest. 
 
@@ -128,7 +127,7 @@ In this tea house it’s easy to chat with people so we hung out with a trekking
 
 **3:31 pm**
 
-<img src="/images/day5view.jpg" alt="Day05 View" width="650"/>
+![Day 5 View](/images/day5view.jpg)
 
 So far no altitude sickness (knock on wood) and I took my first solid poop today!!
 
@@ -136,7 +135,8 @@ Teagan and I are finding that it has become mentally draining. Physically, today
 
 I would say this journey is equal parts mentally and physically demanding. Those components have a reciprocal relationship; if you aren’t mentally strong, you must have extreme physical fitness to make the journey feel easy. In the same way, if you’re physically weak, you must be mentally robust to push through when it gets difficult. I feel like we have a good balance of both. I don’t feel physically sore or fatigued and mentally I’m doing okay (although I learned how to swear in Nepali just in case we have to battle more 60 degree inclines) but if I was any weaker in either regard then this wouldn’t be an enjoyable experience. 
 
-<img src="/images/day5.jpg" alt="Day05" width="650"/>
+
+![Day 5](/images/day5.jpg)
 
 The terrain has changed lots - more shrubby plants and more sand! Feels like we’re getting closer and closer to the source of this fresh water river we’re following. 
 
@@ -152,7 +152,7 @@ Teagan had food poisoning all night so she’s in bed today recovering :( Dewan 
 
 I did a yoga sequence on the stones outside facing the mountains and a few strangers joined in with their own practice. This is living. I’m going to listen to Tony’s advice and never let a moment in my life feel dull. 
 
-<img src="/images/day6.jpg" alt="Day06" width="650"/>
+![Day 6](/images/day6.jpg)
 
 (The village in the valley is where we started). 
 
@@ -160,7 +160,8 @@ I did a yoga sequence on the stones outside facing the mountains and a few stran
 
 **3:08 pm**
 
-<img src="/images/day6view.jpg" alt="Day06 View" width="650"/>
+
+![Day 6 View](/images/day6view.jpg)
 
 I was struggling to find a word that accurately describes the balance between power and complacency that the mountains exert but I think I found it: meek. By Jordan Peterson’s definition, a warrior who is all capable of destruction and tyranny but keeps his sword sheathed is meek. These mountains decide who climbs them, who paves paths in them, and here we (the trekkers) are: observing them at peace, even though we’ve just walked ourselves into the throat of the Himalayas. 
 
@@ -170,18 +171,19 @@ I was struggling to find a word that accurately describes the balance between po
 
 **2:48 pm**
 
-<img src="/images/day7.jpg" alt="Day07" width="650"/>
+![Day 7](/images/day7.jpg)
 
 ##### Left foot. Right foot. Left foot. Right foot. 
 
 Today was hard! Mentally and cardiovascularly. I had thought *“this is unenjoyable”* as we were ascending through a mountain of rocks. Breaks help. I was thinking about what mom told me one time, *“if you want something to feel easy, do something harder”.* A lot of things are going to feel easy after this! Our stomachs were churning with every step but we made it and tomorrow is base camp day!!!!
 
-<img src="/images/day7terrain.jpg" alt="Day07 Terrain" width="650"/>
+
+![Day 7 Terrain](/images/day7terrain.jpg)
 
 ##### SO PROUD OF US FOR MAKING IT THIS FAR.  
 
-<img src="/images/day7memorial.jpg" alt="Day07 Memorial" width="650"/>
 
+![Day 7 Memorial](/images/day7memorial.jpg)
 
 We walked through a memorial of sherpas and tourists who passed away on Everest. 
 
@@ -193,7 +195,7 @@ We’re going to walk to the Khumbu glacier in a bit but for now we’re horizon
 
 *(Written on day 10 bc I couldn’t be bothered to write the day of).*
 
-<img src="/images/day8.jpeg" alt="Day08" width="650"/>
+![Day 8](/images/day8.jpeg)
 
 No - **THIS** was the hardest day. I feel like I saw the other side of death. I slept for four hours last night and **REALLY** felt the altitude sickness. I was stubborn and tried to avoid buying plastic water bottles but because there is no running water up here I just got super dehydrated. I felt so weak and out of it walking to EBC, which involves hiking up and across many rocks along a ridge. It was a cloudy day but I loved that ominous tone. You really feel connected to all those people in the tents planning to summit and I can completely understand how these mountains take lives. 
 \
@@ -203,8 +205,8 @@ No - **THIS** was the hardest day. I feel like I saw the other side of death. I 
 \
 I honestly didn’t think I’d make it back to Gorakshep (I contemplated asking to be abandoned in one of the tents and retrieved tomorrow) since I’d been feeling so nauseas and weak but Dewan gave us a bit of a bounty bar and that helped me make it. It started snowing a lot in the direction we were walking so I had one eye open and honestly just thought of me trudging through campus in the middle of January. Oddly familiar! 
 
-<img src="/images/day8camp.jpg" alt="Day08 Base Camp" width="650"/>
 
+![Day 8 Base Camp](/images/day8camp.jpg)
 
 Everyone seems to be struggling today. I definitely pushed my limits mentally and physically in what was **EASILY** the **HARDEST** thing I’ve ever done in my life. This has been SO character revealing for me, in moments of suffering and awe (they’re usually the same moment, like at EBC) my thoughts enter different corners of my mind. I was telling Teags it’s almost like dynamic meditation where you just yell for a while until these deep rooted emotions -- either laughing or crying or anything in between, shows itself to you. In a lot of ways, this journey has been therapeutic and I think it will radically change both of us. 
 
