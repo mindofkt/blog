@@ -1,6 +1,6 @@
 ---
 title: Everest Base Camp
-date: 2019-05-18
+date: 2019-05-05
 hero: "/images/ebc.jpg"
 excerpt: 12 day trek.
 authors:
@@ -15,6 +15,7 @@ authors:
 \
 \
 \
+
 
 # Day 1
 
@@ -257,3 +258,9 @@ We basically **SPRINTED** back because we were so excited to be done! What a mac
 ### Lukla to KTM
 
 We missed our flight to Ramechhap but caught one to Kathmandu (thank goodness) and **THAT** was the scary ride of my life I’d been waiting for! The plane was constantly dropping and I unwittingly caught myself saying “oh my god” aloud a few times. I even started thinking about all the bad karma I deserve that would maybe cause the universe to bite me now! But we made it!! Home sweet home in Kathmanpoo 😊 what a journey from beginning to end! 
+
+
+
+[![Click for video!](/images/videocover.jpg)](https://www.youtube.com/watch?v=MUROC_qwAiY)
+
+[***Click for YouTube Video***](https://www.youtube.com/watch?v=MUROC_qwAiY)
